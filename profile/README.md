@@ -1,18 +1,18 @@
-## Hey, this is us ☠️☠️
+<h1 align="center">Hey, this is us ☠️ 🥶</h1>
 
-![photo orang-orang ganteng](https://cdn.discordapp.com/attachments/949176925790810192/949179690378227762/DSC_0116.jpg)
+<img style="border-radius: 8px;" src="https://cdn.discordapp.com/attachments/949176925790810192/949179690378227762/DSC_0116.jpg">
 
 <p>
   <h3> 📚 Few words about Us</h3>
-  <img align="right" widht="300" height="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+  <img style="border-radius: 5px;" align="right" widht="100" height="200" src="https://c.tenor.com/dSTZmKJcd6EAAAAC/jojowalkingwowsofunnyandcool.gif" />
   
 - Computer Sience student & Full-Stack developer.
   
 - Mainly web-developer whos enjoy improving his skills in other languages as well.
   
-- I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
+- We are a group of people who love anime and anime-related topics.
   
-- 5+ years of non-commercial expirience in programming.
+- 3+ years of non-commercial expirience in programming.
 
 - Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/id.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified)
 
