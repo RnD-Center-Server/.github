@@ -2,17 +2,28 @@
 
 ![photo orang-orang ganteng](https://cdn.discordapp.com/attachments/949176925790810192/949179690378227762/DSC_0116.jpg)
 
-Yes, we are building RnD Center Server on GitHub. In fact, we’ve been doing this since **November 28th, 2021**. That's when we made our first commit. Since then we pushed **over 300 hundred commits**, opened **over mindboggling 4 issues**, submitted roughly **3 pull requests** across **74 repositories** from over **1 country** 🤯. But that's just us. We are proud  to be part of the work of 6 of developers.
+<p>
+  <h3> 📚 Few words about Us</h3>
+  <img align="right" widht="300" height="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+  
+- Computer Sience student & Full-Stack developer.
+  
+- Mainly web-developer whos enjoy improving his skills in other languages as well.
+  
+- I'm a gamer, my favourite game genres are: **fps, mmo-rpg, strategy**
+  
+- 5+ years of non-commercial expirience in programming.
 
-### 🍿 An interconnected community
+- Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/id.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified)
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
-- **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
-Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
+</p>
+
+---
+
+<!-- Yes, we are building RnD Center Server on GitHub. In fact, we’ve been doing this since **November 28th, 2021**. That's when we made our first commit. Since then we pushed **over 300 hundred commits**, opened **over mindboggling 4 issues**, submitted roughly **3 pull requests** across **74 repositories** from over **1 country** 🤯. But that's just us. We are proud  to be part of the work of 6 of developers. -->
+
 
 ### 🦦 Contributing to the ecosystem
 
