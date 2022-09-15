@@ -1,10 +1,10 @@
-<h1 align="center">Hey, this is us ☠️ 🥶</h1>
+<h1 align="center">Hey, this is us ☠️🥶</h1>
 
-<img style="border-radius: 8px;" src="https://cdn.discordapp.com/attachments/949176925790810192/949179690378227762/DSC_0116.jpg">
+<img style="border-radius: 12px;" src="https://bucket.riqq-cdn.cf/file/riqcdn/rnd-readme-crop.jpg">
 
 <p>
   <h3> 📚 Few words about Us</h3>
-  <img style="border-radius: 5px;" align="right" widht="100" height="200" src="https://c.tenor.com/dSTZmKJcd6EAAAAC/jojowalkingwowsofunnyandcool.gif" />
+  <img style="border-radius: 10px;" align="right" widht="100" height="200" src="https://c.tenor.com/dSTZmKJcd6EAAAAC/jojowalkingwowsofunnyandcool.gif" />
   
 - Computer Sience student & Full-Stack developer.
   
