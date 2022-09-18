@@ -11,7 +11,6 @@
 <p>
   <h3> 📚 Few words about Us</h3>
   <img style="border-radius: 10px;" align="right" widht="100" height="200" src="https://c.tenor.com/dSTZmKJcd6EAAAAC/jojowalkingwowsofunnyandcool.gif" />
-<p>
 <samp>
 <br>
 -「 Computer Sience student & Full-Stack developer.」
@@ -32,7 +31,6 @@
 <br>
 -「 Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/id.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/jp.svg"> (little bit of japanese)」
 </samp>
-</p>
 
 
 </p>
