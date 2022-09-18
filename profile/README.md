@@ -15,18 +15,23 @@
 <samp>
 <br>
 -「 Computer Sience student & Full-Stack developer.」
+</samp>
 <samp>
 <br>
 -「 Mainly web-developer whos enjoy improving his skills in other languages as well.」
+</samp>
 <samp>
 <br>
 -「 We are a group of people who love anime and anime-related topics.」
+</samp>
 <samp>
 <br>
 -「 3+ years of non-commercial expirience in programming.」
+</samp>
 <samp>
 <br>
 -「 Languages spoken: <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/id.svg"> (native) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/us.svg"> (B2+ uncertified) / <img widht="15" height="15" src="https://www.growthbunker.dev/images/vueflags/flags/jp.svg"> (little bit of japanese)」
+</samp>
 </p>
 
 
