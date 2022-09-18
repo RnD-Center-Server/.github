@@ -11,10 +11,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2> 📚 Few words about Us</h2>
+<img style="border-radius: 10px;" align="right" widht="100" height="200" src="https://c.tenor.com/dSTZmKJcd6EAAAAC/jojowalkingwowsofunnyandcool.gif" />
 <h2>
-  <!-- <img style="border-radius: 10px;" align="right" widht="100" height="200" src="https://c.tenor.com/dSTZmKJcd6EAAAAC/jojowalkingwowsofunnyandcool.gif" /> -->
 <samp>
-<br>
 -「 Computer Sience student & Full-Stack developer.」
 </samp>
 <samp>
