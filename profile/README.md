@@ -6,7 +6,7 @@
 
 <!-- <h1 align="center">Hey, this is us ☠️🥶</h1> -->
 
-<img style="border-radius: 12px;" src="https://bucket.riqq-cdn.cf/file/riqcdn/rnd-readme-crop.jpg">
+<img style="border-radius: 12px;" src="https://bucket.riqcdn.eu.org/file/riqcdn/rnd-readme-crop.jpg">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
